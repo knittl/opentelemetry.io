@@ -108,7 +108,7 @@ for the latest updates.
 
 {{% /alert %}}
 
-Verify that OTLP/JSON logs are outputted to stdout. The logs are in the
+Verify that OTLP/JSON logs are output to stdout. The logs are in the
 OTLP/JSON format, with a JSON object per line. The log records are nested in the
 `resourceLogs` array. Example:
 
